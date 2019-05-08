@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffdf4e;
+  background: #ffffc3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2992,5 +2992,5 @@ pre .javascript .function {
   }
 }
 body {
-  background-color: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XIEliWgz-HelxF-xSq2fCcyX8yfwvflyaU4pn9ukKnslz_eq");
+  background: url("../../images/pink.png");
 }
