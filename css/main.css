@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffc3;
+  background: #fe2e7e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2992,5 +2992,6 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("../../images/pink.png");
+  background: url("http://i1.bvimg.com/666304/4a9c53d0b8b21955.png");
+  background-repeat: repeat;
 }
